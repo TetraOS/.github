@@ -14,7 +14,6 @@ TetraOS is an open-source Linux distribution based on Ubuntu and aimed at delive
 
 ## Features
 
-- Ubuntu 20.04 base with the latest software updates and patches.
 - A beautiful and modern desktop environment, Cosmos.
 - Secure by default with robust security features.
 - A curated selection of software that works seamlessly together.

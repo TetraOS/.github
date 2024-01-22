@@ -2,7 +2,7 @@
 
 <img src="https://github.com/TetraOS/.github/blob/main/banners/Experience%20the%20Future(1).png" width="960px" height="540px">
 
-TetraOS is an open-source Linux distribution based on Ubuntu and aimed at delivering a secure, reliable, and easy-to-use operating system for users and businesses alike. With the Cosmos desktop environment, TetraOS provides a unique and modern look to enhance your computing experience.
+TetraOS is an open-source Linux distribution based on Debian and aimed at delivering a secure, reliable, and easy-to-use operating system for users and businesses alike. With the Cosmos desktop environment, TetraOS provides a unique and modern look to enhance your computing experience.
 
 ## Table of Contents
 

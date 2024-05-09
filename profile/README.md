@@ -1,18 +1,25 @@
-# TetraOS
+<div align="center">
 
-<img src="https://github.com/TetraOS/.github/blob/main/banners/Experience%20the%20Future(1).png" width="960px" height="540px">
+<img src="https://github.com/TetraOS/.github/blob/main/banners/TetraOS GitHub Banner.png" width = "100%">
 
-TetraOS is an open-source Linux distribution based on Debian and aimed at delivering a secure, reliable, and easy-to-use operating system for users and businesses alike. With the Cosmos desktop environment, TetraOS provides a unique and modern look to enhance your computing experience.
+</div>
 
-## Table of Contents
+<br>
 
-- [Features](#features)
-- [Installation](#installation)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
+<div align="center">
+  <p>TetraOS is an open-source Linux distribution based on Debian and aimed at delivering a secure, reliable, and easy-to-use operating system for users and businesses alike. With the Cosmos desktop environment, TetraOS provides a unique and modern look to enhance your computing experience.</p>
+</div>
 
-## Features
+<br>
+
+## Table of Contents 📋
+
+- [Features](#Features)
+- [Installation](#Installation)
+- [Documentation](#Documentation)
+- [Contributing](#Contributing)
+
+## Features 🌟
 
 - A Debian v12.0 base
 - A beautiful and modern desktop environment, Cosmos.
@@ -20,15 +27,15 @@ TetraOS is an open-source Linux distribution based on Debian and aimed at delive
 - A curated selection of software that works seamlessly together.
 - Regular updates to keep your system current and safe.
 
-## Installation
+## Installation 🚀
 
 Currently, TetraOS is in the development phase. You can track the progress by following our GitHub repository. We will release an installation guide and updated images once the first public release is available.
 
-## Documentation
+## Documentation 📄
 
 Our documentation covers topics such as system requirements, installation procedures, usage tips, and troubleshooting guides. More specific documentation can be found in indiviual repositories under the /docs directory.
 
-## Contributing
+## Contributing 🤝 
 
 We welcome contributions from the community. You can contribute to TetraOS in various ways such as:
 
@@ -39,7 +46,3 @@ We welcome contributions from the community. You can contribute to TetraOS in va
 - Helping with documentation or translation
 
 For more details, refer to our [Contributing Guide](./CONTRIBUTING.md).
-
-## License
-
-TetraOS is released under the [GNU General Public License v3.0](./LICENSE). This means that you are free to modify, redistribute, and use it as you wish, as long as you follow the terms and conditions of the license.

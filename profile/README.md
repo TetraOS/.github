@@ -46,3 +46,13 @@ We welcome contributions from the community. You can contribute to TetraOS in va
 - Helping with documentation or translation
 
 For more details, refer to our [Contributing Guide](./CONTRIBUTING.md).
+
+## Newsletter SignUp 📰
+
+Join the Tetra Foundation Newsletter to get the latest updates about TetraOS and all things TTF. 
+
+ **Sign up using the form [here](https://ha0tstywtw4.typeform.com/to/gjY4H54O)**
+
+
+
+

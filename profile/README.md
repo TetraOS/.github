@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TetraOS/.github/blob/main/banners/CoverImage.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TetraOS/.github/blob/main/banners/tetraos-readme-logo.png">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Tetra-Foundation/.github/blob/main/profile/cover.png">
-    <img alt="TetraOS - The Next Generation Linux Distribution" src="https://github.com/Tetra-Foundation/.github/blob/main/profile/cover.png">
+    <img alt="TetraOS - The Next Generation Linux Distribution" src="https://github.com/Tetra-Foundation/.github/blob/main/banners/tetraos-readme-logo.png">
   </picture>
   <h4>TetraOS is a modern Linux distribution built on Debian, designed to provide a smooth, efficient, and reliable desktop experience.</h4>
 </div>
